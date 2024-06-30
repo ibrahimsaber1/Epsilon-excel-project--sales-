@@ -1,4 +1,4 @@
-# Excel Data Analysis Project
+# Epsilon excel project (sales)
 
 ## Overview
 
@@ -199,6 +199,3 @@ DAX (Data Analysis Expressions) calculations were implemented to derive various 
 
 The analysis provides comprehensive insights into the sales data, highlighting key trends and performance metrics across different categories, regions, products, and sales representatives.
 
----
-
-Feel free to replace `path_to_your_screenshot_here` with the actual paths to your screenshots. This will make your README more interactive and visually informative.
