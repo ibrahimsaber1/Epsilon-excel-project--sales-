@@ -49,7 +49,6 @@ DAX (Data Analysis Expressions) calculations were implemented to derive various 
 | Soap       | $75,481,077.52 |
 | **Grand Total** | **$256,361,867.23** |
 
-![Sales by Category]
 
 ### Highest 5 Sales Reps
 | Row Labels      | total_sales         |
@@ -61,7 +60,6 @@ DAX (Data Analysis Expressions) calculations were implemented to derive various 
 | Rep 13          | $24,767,224.85      |
 | **Grand Total** | **$132,328,635.97** |
 
-![Highest 5 Sales Reps]
 
 ### Highest 5 Product Sales
 | Row Labels                           | total_sales         |
@@ -73,7 +71,6 @@ DAX (Data Analysis Expressions) calculations were implemented to derive various 
 | Soap 165gm - Red 4 pcs 4 EGP Discount  | $15,337,769.65 |
 | **Grand Total** | **$190,681,745.45** |
 
-![Highest 5 Product Sales]
 
 ### Highest 5 Sales Per Outlets
 | Row Labels | total_sales    |
@@ -85,7 +82,6 @@ DAX (Data Analysis Expressions) calculations were implemented to derive various 
 | كارمن       | $3,640,436.07  |
 | **Grand Total** | **$23,642,288.44** |
 
-![Highest 5 Sales Per Outlets]
 
 ### Count of OutletId
 - Distinct Count of OutletId: 5166
@@ -112,7 +108,6 @@ DAX (Data Analysis Expressions) calculations were implemented to derive various 
 | محمد احمد      | $175,000.00         | $400,000.00     | 43.75%             |
 | **Grand Total** | **$1,630,000.00**   | **$3,820,000.00** | **541.33%**        |
 
-![Target Comparison]
 
 ### Order Size
 | Row Labels       | total_sales       | Count of orders |
@@ -124,7 +119,6 @@ DAX (Data Analysis Expressions) calculations were implemented to derive various 
 | Very Small Order | $1,964,205.19     | 90344           |
 | **Grand Total**  | **$256,361,867.23** | **219794**       |
 
-![Order Size]
 
 ### Sales Details per Category
 | total_sales    | Detergent      | Shower gel     | Soap          | **Grand Total** |
@@ -137,7 +131,6 @@ DAX (Data Analysis Expressions) calculations were implemented to derive various 
 | **2021 Q2**    | $6,356,692.20  | $202,484.23    | $1,374,168.86  | $7,933,345.29 |
 | **Grand Total**| $171,523,816.18| $9,356,973.53  | $75,481,077.52 | $256,361,867.23 |
 
-![Sales Details per Category]
 
 ### Sales Details per Region
 | total_sales    | Cairo/Giza     | Delta          | Upper         | **Grand Total** |
@@ -150,7 +143,6 @@ DAX (Data Analysis Expressions) calculations were implemented to derive various 
 | **2021 Q2**    | $274,999.91    | $4,771,774.80  | $2,886,570.58  | $7,933,345.29 |
 | **Grand Total**| $15,400,255.42 | $145,544,834.29| $95,416,777.52 | $256,361,867.23 |
 
-![Sales Details per Region]
 
 ### Sales Details per Size
 | total_sales     | Big Order     | Normal Order   | Small Order   | Very Big Order   | Very Small Order | **Grand Total** |
@@ -163,7 +155,6 @@ DAX (Data Analysis Expressions) calculations were implemented to derive various 
 | **2021 Q2**     | $471,849.86   | $347,301.24    | $261,972.59   | $6,750,113.52    | $102,108.08       | $7,933,345.29   |
 | **Grand Total** | $12,844,300.73| $8,772,113.54  | $6,097,701.32 | $226,683,546.45  | $1,964,205.19     | $256,361,867.23 |
 
-![Sales Details per Size]
 
 ### Sales Category per Year
 | Values             | total_sales        |
@@ -175,7 +166,6 @@ DAX (Data Analysis Expressions) calculations were implemented to derive various 
 | Shower gel 2020    | $8,359,531.29      |
 | Shower gel 2021    | $997,442.24        |
 
-![Sales Category per Year]
 
 ### Very Big Order per Rep
 | Values             | total_sales        |
@@ -193,7 +183,6 @@ DAX (Data Analysis Expressions) calculations were implemented to derive various 
 | rep 11 very big order sales | $22,197,737.35 |
 | rep 12 very big order sales | $15,835,431.22 |
 
-![Very Big Order per Rep]
 
 ## Conclusion
 
