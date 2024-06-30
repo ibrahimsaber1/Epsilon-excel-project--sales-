@@ -1,0 +1,14 @@
+Bussines Questions to follow:
+sales  by category
+highest sales rep
+highest product sales
+highest sales per outlets
+highest product sales
+Distinct count of Customers
+count of order IDS
+Revenue analysis
+target comparision with acctual sales.
+please use the DAX functions not less than 15 function Calculate etc ( LOGICAL - TIMING INTELLIGANCE - TEXT FUNCTIONS - Calculate )
+build a new calendar
+use the timing intelligence DAX , at least 6 functions.
+use the Pivot tables skills as much as you can
